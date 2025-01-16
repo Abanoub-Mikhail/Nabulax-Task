@@ -178,7 +178,7 @@ body{
   }
   .profile .info p {
     margin: 0;
-    font-size: 12px;
+    font-size: .75rem;
     color: var(--third-text-color);
     text-transform: capitalize;
   }
@@ -345,12 +345,12 @@ section.companies main .company-logo{
 
   section.sell-product .text h2 {
     width: 80%;
-    font-size: 65px ;
+    font-size: 4.0625rem ;
   }
 
   section.sell-product .text p:last-of-type{
     width: 70%;
-    font-size: 18px;
+    font-size: 1.125rem;
     color: var(--third-text-color);
     margin-bottom: 50px;
     line-height: 30px;
@@ -364,7 +364,7 @@ section.companies main .company-logo{
     padding-right: 4px;
     border-radius: 50px;
     text-transform: uppercase;
-    font-size: 18px;
+    font-size: 1.125rem;
     color: white;
     display: flex;
     justify-content: center;
@@ -378,7 +378,7 @@ section.companies main .company-logo{
 
 
   section.sell-product .text button i {
-    font-size: 50px;
+    font-size: 3.125rem;
   }
 
   section.sell-product .products, section.sell-product .text {
@@ -507,7 +507,7 @@ section.companies main .company-logo{
 
     section.sell-product .text h2 {
       width: 100%;
-      font-size: 50px;
+      font-size: 3.125rem;
     }
   
     section.sell-product .text p:last-of-type{
@@ -669,7 +669,7 @@ section.customer .profile h3 {
   align-items: center;
   gap: 10px;
   line-height: 20px;
-  font-size: 25px;
+  font-size: 1.5625rem;
   margin: 0;
   margin-bottom: 20px;
 }
@@ -691,7 +691,7 @@ section.customer .profile p span{
 
 section.customer .profile h3 i {
   color: darkviolet;
-  font-size: 12px;
+  font-size: .75rem;
 }
 
 
@@ -713,12 +713,12 @@ section.customer .text p:first-of-type{
 
 section.customer .text h2 {
   width: 80%;
-  font-size: 65px ;
+  font-size: 4.0625rem;
 }
 
 section.customer .text p:last-of-type{
   width: 90%;
-  font-size: 18px;
+  font-size: 1.125rem;
   color: var(--third-text-color);
   margin-bottom: 50px;
   line-height: 30px;
@@ -732,7 +732,7 @@ section.customer .text button{
   padding-right: 4px;
   border-radius: 50px;
   text-transform: uppercase;
-  font-size: 18px;
+  font-size: 1.125rem;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -746,7 +746,7 @@ section.customer .text button:hover {
 }
 
 section.customer .text button i {
-  font-size: 50px;
+  font-size: 3.125rem;
 }
 
 
@@ -779,7 +779,7 @@ section.customer .text button i {
 
   section.customer .text h2 {
     width: 100%;
-    font-size: 50px;
+    font-size: 3.125rem;
     margin-bottom: 10px;
   }
   
@@ -826,7 +826,7 @@ section.customer .text button i {
   section.contact .contact-form h2 {
     margin-bottom: 30px;
     text-transform: capitalize;
-    font-size: 40px;
+    font-size: 2.5rem;
   }
 
   section.contact .contact-form input, section.contact .contact-form textarea{
@@ -913,7 +913,7 @@ section.customer .text button i {
       position: fixed; 
       bottom: 20px; 
       right: 30px; 
-      font-size: 50px; 
+      font-size: 3.125rem; 
       background-color: white;
       color: var(--main-text-color); 
       border: none; 
