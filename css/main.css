@@ -104,8 +104,7 @@ body{
 
 
   header{
-    /* height: 100vh; */
-    background-image: url('/assets/Hero\ Background.jpg');
+    background-image: url('../assets/Hero\ Background.jpg');
     background-size: cover;
     background-position: center;
     padding-top: 60px;
@@ -525,7 +524,7 @@ section.companies main .company-logo{
 
   /* START PRODUCTS-CARD SECTION */
 section.products-card{
-  background-image: url('/assets/products-bck.jpg');
+  background-image: url('../assets/products-bck.jpg');
   background-size: cover;
   background-position: center;
   padding-top: 50px;
@@ -802,7 +801,7 @@ section.customer .text button i {
   /* START CONTACT SECTION */
   section.contact{
     padding: 30px 0;
-    background-image: url('/assets/contact-bck.jpg');
+    background-image: url('../assets/contact-bck.jpg');
     background-position: center;
     background-size: cover;
   }  
